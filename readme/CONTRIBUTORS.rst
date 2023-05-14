@@ -7,5 +7,3 @@
 * Fabio Vilchez <fabio.vilchez@clearcorp.co.cr>
 * Jos De Graeve <Jos.DeGraeve@apertoso.be>
 * Lai Tim Siu (Quaritle Limited) <info@quartile.co>
-* Tharathip Chaweewongphan <tharathipc@ecosoft.co.th>
-* Eric Antones <eantones@nuobit.com>
